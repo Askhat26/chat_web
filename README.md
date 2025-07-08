@@ -52,4 +52,9 @@ chat-with-website/
 ```
 
 
+##  🚀 Getting Started
+    git clone git clone https://github.com/your-username/chat-with-website.git
+    cd chat-with-website
+
+    cd ap
 
