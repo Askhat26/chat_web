@@ -1,0 +1,24 @@
+# Core Requirements
+langchain==0.1.0
+langchain-google-genai==0.0.7
+google-generativeai==0.3.2
+streamlit==1.25.0
+beautifulsoup4==4.12.2
+chromadb==0.4.10
+requests==2.31.0
+tqdm==4.65.0
+
+# Supporting Libraries
+python-dotenv==1.0.0
+lxml==4.9.2
+
+# Optional: PDF / File support
+pypdf==3.10.0
+unstructured==0.7.6
+
+# Optional: Embedding alternatives
+sentence-transformers==2.2.2
+
+# Math and Scientific
+numpy==1.24.4
+scipy==1.10.1
