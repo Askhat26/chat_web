@@ -1,6 +1,7 @@
-# chat_web
-
 # 💬 Chat With Any Website using LangChain & Python
+
+![UI Screenshot](assets/Screenshot%202025-07-09%20212453.png)
+![Architecture Diagram](assets/mermaid-diagram.svg)
 
 A powerful Python-based app that lets you **chat with any public website** using the magic of **LangChain**, **OpenAI**, and **web scraping**.
 
@@ -51,10 +52,21 @@ chat-with-website/
 └── README.md                # You're reading it
 ```
 
+## 🚀 Getting Started
 
-##  🚀 Getting Started
-    git clone git clone https://github.com/your-username/chat-with-website.git
-    cd chat-with-website
+```bash
+git clone https://github.com/Akshat26/chat-with-website.git
+cd app
 
-    cd ap
+# Create virtual environment (optional)
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app directly from the terminal
+streamlit run main.py
+```
+
 
