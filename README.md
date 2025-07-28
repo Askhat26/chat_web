@@ -1,6 +1,8 @@
 # 💬 Chat With Any Website using LangChain & Python
 
+## 🧠 Architecture Diagram
 
+![Architecture](assets/architecture-diagram.png)
 
 A powerful Python-based app that lets you **chat with any public website** using the magic of **LangChain**, **OpenAI**, and **web scraping**.
 
