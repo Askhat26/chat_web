@@ -2,7 +2,8 @@
 
 ## 🧠 Architecture Diagram
 
-![Architecture](assets/architecture-diagram.png)
+![Architecture](assets/architecture-diagram.svg)
+
 
 A powerful Python-based app that lets you **chat with any public website** using the magic of **LangChain**, **OpenAI**, and **web scraping**.
 
