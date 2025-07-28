@@ -1,7 +1,6 @@
 # 💬 Chat With Any Website using LangChain & Python
 
-![UI Screenshot]("C:\Users\singh\OneDrive\Pictures\Screenshots\Screenshot 2025-07-09 212453.png")
-![Architecture Diagram]("D:\mermaid-diagram.svg")
+
 
 A powerful Python-based app that lets you **chat with any public website** using the magic of **LangChain**, **OpenAI**, and **web scraping**.
 
